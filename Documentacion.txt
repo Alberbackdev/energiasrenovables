@@ -1,0 +1,64 @@
+Interfaz Grafica Sobre Fuentes de Energía
+Version 1.0
+Autores: 
+Alberto de Jesús Graterol Carrillo C.I: 27.405.246
+Méndez Aldana Yulihanny Patricia   C.I: 28.438.989
+
+
+Existen dos grandes tipos de energía: las energías renovables y las no renovables. ¿Cuál es la diferencia entre ellas?
+
+Las energías renovables:
+
+Son recursos limpios y casi inagotables que nos proporciona la naturaleza.
+Por su carácter autóctono contribuyen a disminuir la dependencia de nuestro país de los suministros externos.
+Favorecen el desarrollo tecnológico y la creación de empleo.
+Las energías no renovables:
+
+Son aquellas cuyas reservas son limitadas y, por tanto, disminuyen a medida que se consumen.
+A medida que las reservas son menores, es más difícil su extracción y aumenta su coste.
+Se consideran energías no renovables el petróleo, el carbón, el gas natural o la energía nuclear.
+
+Situación Energética en Venezuela 2020
+
+Durante los primeros meses del año 2020 el gobierno ha tenido que recurrir a programas de corte debido a la inestabilidad del servicio eléctrico y los meses de marzo y abril los cortes en diferentes estados se han vuelto más continuos, en algunas ciudades se aplican recortes de seis horas dos veces al día, solo en los tres primeros meses de 2020 fueron reportadas 17.251 fallas eléctricas137​ 138​139​
+
+Según declaraciones en abril de 2020 por la diputada Nora Bracho, el 92 por ciento de los residentes en el estado Zulia continúan sufriendo cortes eléctricos con frecuencia. La duración media de los cortes es de entre seis y ocho horas y solo el 6 por ciento recibe agua.140​. En el estado Mérida y otras ciudades se raciona con interrupciones de servicio cada seis horas programadas
+Un año después del apagón general de marzo de 2019, el sistema eléctrico en el Zulia continuas con graves deficiencias sin resolver. Especialistas estiman que sería necesaria una inversión de 5.000 millones de dólares americanos y un plazo de dos años para restaurarlo
+
+El Programa se ejecuta con python especificamente con la libreria Tkinter para la interfaz Grafica
+
+Instrucciones:
+
+El Programa es diseñado de forma secilla, a manera de que se pueda entender facilmente en el desarrollo de la actividad.
+Se trata de una serie de opciones en la cual se deben escoger las correctas, con respecto a la imagen que aparezca debajo.
+Segun la imagen ud seleccionará las opciones que se adapten a los tipos de fuente de Energia Renovables y no renovables que existen hasta ahora.
+la cantidad de opciones se limita por los momentos a 5 tipos de fuentes de Energía
+
+Si se equivoca en alguna opción, el programa le informará, que se ha equivocado y debe seguir intentando con entusiasmo hasta encontrar la respuesta correcta
+
+en caso de que no seleccione ninguna opción, el Programa le indicará el error y le mostrará las instrucciones a seguir.
+En caso de Acertar en todas  las respuestas, el programa Le indicará a travéz de un mensaje que lo ha echo de forma correcta y por lo tanto debe presionar al boton salir para terminar el programa, de lo contrario la ventana quedará abierta y el programa en ejecución lo que puede provocar
+un consumo de memoria que en conjunto con otras aplicaciones de su sistema puedan provocar lentitud al momento de trabajar con su pc o portatil
+
+Al Darle clic al boton salir, luego de haber seleccionado las respuestas correctamente, el programa se cerrará automaticamente y ud habrá disfruta de 
+un aprendizaje sencillo sobre el reconocimiento de los tipos de Fuestes de ENERGÍA que existen actualmente en nuestro mundo, además de hacer comparaciones sobre
+qué tipo de FUENTE DE ENERGIA es mejor para este, adcionalmente	se imaginará la manera de mejorar la Energía en nuestro País y mejorar la forma de aplicación de 
+dicha Energía que en un Futuro Puede ser Renovable.
+
+
+				
+Espero que haya sido de su Agrado, Muchas Gracias por haber Ejecutado este Programa..
+Proximamente versión 2.0
+Así Que Atentos a la Proxima Entrega!!!!!
+Saludos desde VENEZUELA 2020				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
